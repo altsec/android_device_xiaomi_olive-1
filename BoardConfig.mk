@@ -117,3 +117,5 @@ TW_NO_EXFAT := false
 TW_NO_EXFAT_FUSE := false
 TW_INCLUDE_NTFS_3G := true
 
+#TWRP Old Config
+TARGET_OTA_ASSERT_DEVICE := olive
